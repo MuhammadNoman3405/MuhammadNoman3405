@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 3rd Year **BSCS Student** at **UET Taxila** (CGPA: 3.66)
+- 🎓 Final Year **BSCS Student** at **UET Taxila** (CGPA: 3.61)
 - 🤖 Passionate about **Machine Learning**, **Data Science** & **AI**
 - 📊 Currently practicing **NumPy, Pandas, Matplotlib & Seaborn** via Campus X
 - 🌱 Following **Krish Naik's ML Bootcamp** on Udemy
